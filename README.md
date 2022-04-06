@@ -8,17 +8,17 @@ Compiler. The Op amp circuit used is a 2 state Miller Op amp circuit.
 
 ## Content
 
-- Abstract
-- Reference Circuit Details
-- Reference Circuit Diagram
-- Reference Circuit Waveform
-- Designed Circuit Details
-- Designed Circuit Diagram
-- Designed Circuit Netlist
-- Designed Circuit Waveform
-- Conclusion
-- Acknowledgement
-- Reference
+- [Abstract](#abstract)
+- [Reference Circuit Details](#reference-circuit-details)
+- [Reference Circuit Diagram](#reference-circuit-diagram)
+- [Reference Circuit Waveform](#reference-circuit-waveform)
+- [Designed Circuit Details](#designed-circuit-details)
+- [Designed Circuit Diagram](#designed-circuit-diagram)
+- [Designed Circuit Netlist](#designed-circuit-netlist)
+- [Designed Circuit Waveform](#designed-circuit-waveform)
+- [Conclusion](#conclusion)
+- [Acknowledgement](#acknowledgement)
+- [Reference](#reference)
 
 ### Abstract
 
